@@ -1,0 +1,23 @@
+[
+  {
+    "id": "10d5a0f8-51ba-4731-91ae-ebadda71a7da",
+    "payee": "Test",
+    "amount": 100,
+    "date": "2021-08-01T00:00:00.000Z",
+    "categoryId": "09839361-0ff1-482f-9f07-a0f7e3b1b4ac"
+  },
+  {
+    "id": "5cdca34f-c832-4127-86e6-d6956b133fde",
+    "payee": "CIMB",
+    "amount": 72.19,
+    "date": "2021-08-01T00:00:00.000Z",
+    "categoryId": "40ed2e64-0ebf-478b-bd44-7d8f5ac79df6"
+  },
+  {
+    "id": "9df6e72f-fdf3-47eb-8b32-b5e17dad7a0e",
+    "payee": "Test Create",
+    "amount": 100,
+    "categoryId": "09839361-0ff1-482f-9f07-a0f7e3b1b4ac",
+    "date": null
+  }
+]

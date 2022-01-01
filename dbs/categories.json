@@ -1,0 +1,22 @@
+[
+  {
+    "id": "64817558-2d7b-4af3-bf50-6e122dac4064",
+    "name": "Auto",
+    "type": "EXPENSE"
+  },
+  {
+    "id": "09839361-0ff1-482f-9f07-a0f7e3b1b4ac",
+    "name": "Entertainment",
+    "type": "EXPENSE"
+  },
+  {
+    "id": "6d0df1f7-7da0-42f6-9f8b-81f338bfa808",
+    "title": "Interest",
+    "type": "INCOME"
+  },
+  {
+    "id": "dc65aff1-9f2a-4bbf-9a60-415f5ce86039",
+    "title": "Test Update",
+    "type": "EXPENSE"
+  }
+]
